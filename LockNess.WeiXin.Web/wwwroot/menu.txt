@@ -1,0 +1,39 @@
+﻿{
+     "button":[
+     {    
+          "type":"view",
+          "name":"晚安家纺",
+		  "url":"https://mp.weixin.qq.com/s/OsZfyB9u70vln2lwtInXNQ"
+      },
+      {
+           "name":"官方商城",
+		   "type":"view",
+		   "url":"https://h5.youzan.com/v2/showcase/homepage?alias=Rq49ZAJHY3"
+       },
+	   {
+		"name":"服务中心",
+		 "sub_button":[
+            {
+                "type": "scancode_waitmsg", 
+                "name": "开始验证", 
+                "key": "rselfmenu_0_1"
+            },
+		  {
+           "name":"个人中心",
+		   "type":"view",
+		   "url":"https://h5.youzan.com/wscuser/membercenter?kdt_id=41443368"
+       },
+	     {
+           "name":"在线客服",
+		   "type":"view",
+		   "url":"https://passport.youzan.com/login?redirectUrl=https%3A%2F%2Fh5.youzan.com%2Fv2%2Fim%3Fc%3Dwsc%26v%3D2%26kdt_id%3D41443368#talk!id=41443368"
+       },
+	     {
+           "name":"门店导航",
+		   "type":"view",
+		   "url":"https://h5.youzan.com/v2/showcase/physicalstore/detail?kdt_id=41443368&id=53559057"
+       }
+		 ]
+	   }
+	   ]
+ }
